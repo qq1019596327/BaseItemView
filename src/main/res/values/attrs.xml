@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <declare-styleable name="BaseItemView">
+        <attr name="text" format="reference|string" />
+        <attr name="textColor" format="reference|color" />
+        <attr name="textSize" format="reference|dimension" />
+
+        <attr name="sonText" format="reference|string" />
+        <attr name="sonTextColor" format="reference|color" />
+        <attr name="sonTextSize" format="reference|dimension" />
+
+        <attr name="icon" format="reference" />
+        <attr name="iconSize" format="reference|dimension" />
+
+        <attr name="styleType" format="reference" />
+    </declare-styleable>
+
+</resources>
